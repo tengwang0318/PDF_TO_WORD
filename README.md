@@ -1,2 +1,2 @@
 # PDF_TO_WORD
-convert file which format is PDF to word
+convert PDF file to word
